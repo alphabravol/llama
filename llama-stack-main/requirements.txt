@@ -1,0 +1,8 @@
+blobfile
+fire
+httpx
+huggingface-hub
+llama-models
+pydantic
+requests
+termcolor
